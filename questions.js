@@ -51,7 +51,7 @@ const questions = [
   {
     question_text: "What isn't one of the 5 learning principles which have the acronym spelling out the first name of a very handsome man?",
     question_type: "multiple_choice",
-    options: ["Challenge", "Hunger", "Recover", "Interleaved practise", "Spaced repetition"],
+    options: ["Challenge", "Hunger", "Recover", "Spaced repetition"],
     correct_option: 2,
     correct_explanation: "Recover should be Retrieval. Actively retrieving information is one of the best ways to learn.",
   },
